@@ -1,0 +1,13 @@
+Projeto Secretaria Eletronica
+
+Objetivo:
+Integrar IA na interpretação de áudios.
+Contexto:
+Pedidos para pizzaria.
+
+Utilização:
+Cliente acessa link e entra na plataforma (Telegram).
+Cliente manda áudios fazendo pedido, e informando endereço, mesmo contendo ruídos no áudio. IA retorna ao cliente, uma descrição do pedido feito, baseado no catálogo integrado, solicitando confirmação, ou alteração. Cliente, por escrito ou por áudio, efetua a confirmação, ou alteração, ou cancelamento do pedido. Ao final, IA transcreve o pedido, e envia a transcrição para o fornecedor executar.
+
+A Secretaria Eletronica foi apresentada, testada e comprovada eficácia, em sala de aula, no dia 15/10/2024.
+Idealizada pelo programador Daniel Francisco Nunes. Desenvolvida pelos programadores Yori Gandalfi, João Xmitt, e Daniel Nunes.
